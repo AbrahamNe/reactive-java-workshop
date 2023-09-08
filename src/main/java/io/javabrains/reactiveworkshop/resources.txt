@@ -1,0 +1,12 @@
+
+
+-- Reactive programming ----
+
+Resources
+-> project reactor doc : https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Flux.html
+
+-> https://medium.com/sysco-labs/reactive-programming-in-java-8d1f5c648012
+
+-> Reative web service: https://gokhana.dev/server-side-reactive-programming/#:~:text=January%2030%2C%202023,each%20other%20to%20complete%20synchronously.
+
+-> https://medium.com/intuit-engineering/reactive-programming-project-reactor-webflux-oh-my-4bfa470feee7
